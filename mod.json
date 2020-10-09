@@ -1,0 +1,12 @@
+{
+	"Name": "fast-rpg",
+	"Authors": [ "greeny" ],
+	"Description": "Increases the fire rate on the RPG and gives it a larger magazine. Because why not.",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Dependencies": 
+	{
+		"veniceext": "^1.0.0"
+	}
+}
